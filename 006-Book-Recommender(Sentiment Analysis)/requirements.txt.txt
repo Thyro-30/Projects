@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+gradio
+jupyter
+notebook
+sentence-transformers
+tqdm
+joblib
